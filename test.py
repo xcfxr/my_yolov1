@@ -1,0 +1,1 @@
+print(' '.join(str(each) for each in [1, 2, 3]))
